@@ -16,11 +16,11 @@
 
 # Introduce
 
-파이썬, C++을 사용하여 웹 서버 구축/배포, 인공지능 프로젝트, 파이썬-게임 엔진 파이프라인 구축, 프로세스 자동화를 개발, 운영한 경험이 있습니다. 전자공학 전공에 컴퓨터공학 부전공이기때문에 소프트웨어부터 하드웨어까지 깊은 이해를 가지고 있으며 이를 기반으로 하는 하드웨어 친화적인 코딩을 합니다.
+파이썬, C++을 사용하여 웹 서버 구축/배포, 인공지능 프로젝트, 파이썬-게임 엔진 파이프라인 구축, 프로세스 자동화를 개발한 경험이 있습니다. 전자공학 전공에 컴퓨터공학 부전공이기때문에 소프트웨어부터 하드웨어까지 공부한적 있습니다.
 
 코로나 맵, 쇼핑몰, 홈페이지, 웹 서버 기획 경험이 있으며 웹 디자이너와 개발자 사이의 의견을 비즈니스 기획의도에 맞게 조율하며 프로젝트를 진행했습니다.
 
-여러 개발자 커뮤니티 활동을 하면서 최신의 기술 트렌드를 습득하고 개인 프로젝트를 하면서 성장을 계속해나갑니다. 새로운 것을 받아들이는데 거리낌이 없고 도전하기를 좋아합니다. 
+여러 개발자 커뮤니티 활동과 개인 프로젝트를 하면서 성장을 계속해나갑니다. 새로운 것을 받아들이는데 거리낌이 없고 도전하기를 좋아합니다. 
 
   　  
 
@@ -58,49 +58,47 @@
 ## 💻 Technology
 
 
-(⭐️⭐️⭐️⭐️⭐️ : 서비스 개발 / ⭐️⭐️⭐️ : 다뤄봄 / ⭐️ : 기초)
-
-### Python ⭐️⭐️⭐️⭐️⭐️
+### Python 
 
 웹으로는 Django와 Flask를, 인공지능으로는 Tensorflow와 Pytorch를, 데이터로는 Pandas와 Scikit-learn을, 그리고 자동화로는 Tkinter와 Bs4, Selenium을 이용해 서비스를 개발해본 적이 있습니다.
 
-### C ⭐️⭐️⭐️
+### C 
 
 포인터를 다루는데 능숙하고, 컴파일 단계에서 하드웨어가 어떻게 작동하는지 이해하고 있습니다.
 
-### Java ⭐️⭐️
+### Java 
 
 간단한 문법, 추상화 개념, 컴파일까지 가능합니다.
 
-### Linux ⭐️
+### Linux 
 
 커맨드 명령어, vim 사용법을 이해하고 있습니다.
 
-### AWS ⭐️⭐️⭐️
+### AWS 
 
 EC2, S3를 이용하여 서비스를 개발, 배포해본적이 있으며 AWS ECR을 이용해 도커와 연동해본 경험이 있습니다. 또한 AWS의 인프라 스트럭쳐가 어떻게 구성되어 있고 어떤 api를 써서 통신하는지 이해하고 있습니다.
 
-### Docker ⭐️⭐️
+### Docker 
 
 로컬 개발환경(VScode) - 도커허브 - AWS ECR으로 이어지는 개발을 진행해본 적이 있습니다. 도커 이미지와 컨테이너에 대한 개념을 숙지하고 있으며 도커의 장단점을 이해하고 있습니다.
 
-### GCP ⭐️⭐️
+### GCP 
 
 콘솔을 사용하여 웹 서버를 배포해본적 있으며, GCP가 어떻게 구성되어 있는지 이해하고 있습니다.
 
-### Webcrawling, Automation ⭐️⭐️⭐️⭐️
+### Webcrawling, Automation 
 
 파이썬의 크롤링 프레임워크와 인공지능을 이용해 반복적인 업무를 자동화할 수 있습니다.
 
-### Artificial Intelligence ⭐️⭐️⭐️⭐️
+### Artificial Intelligence 
 
 데이터와 tensorflow, pytorch, scikit-learn, pandas 등을 이용해 인공지능 모델을 개발하고 학습, 결과를 시각화할 수 있습니다.
 
-### Web Framework ⭐️⭐️
+### Web Framework 
 
 장고 프레임워크와 HTML, CSS, JS 그리고 Bootstrap과 SQLite, NGinx을 이용해 간단한 웹서비스를 제작할 수 있습니다.
 
-### Asynchronous, Parallel system ⭐️
+### Asynchronous, Parallel system 
 
 celery, rabbitmq 등의 비동기 프레임워크와 multiprocessing, multithreading 등의 병렬 처리를 클론코딩, 핸즈온러닝을 통해 해당 개념을 사용해본적 있습니다.
 
@@ -114,10 +112,6 @@ celery, rabbitmq 등의 비동기 프레임워크와 multiprocessing, multithrea
 ### English 🇺🇸
 
 주저함이나 침묵없이 자연스럽게 대화할 수 있음
-
-### Japanese 🇯🇵
-
-알아들을 수 있음
 
   　  
 
@@ -140,8 +134,8 @@ celery, rabbitmq 등의 비동기 프레임워크와 multiprocessing, multithrea
 유명인들의 롤 닉네임을 추적
 
 - Django - HTML/CSS/JS, Bootstrap, SQLite로 웹 사이트 구성
-- Nginx, uWSGI, RabbitMQ, Celery로 비동기 프로세스, 웹 서버 구성
-- docker Image로 빌드 후 dockerhub - AWS ECR으로 EC2위에 배포
+- Nginx, uWSGI, RabbitMQ, Celery을 이용해 비동기 프로세스, 웹 서버 구성(핸즈온)
+- docker Image로 빌드 후 dockerhub - AWS ECR으로 EC2위에 배포(핸즈온)
 - 전반적인 웹 서비스의 배포과정을 이해함
 - AWS 서비스에 대한 이해와 IAM 정책에 대한 이해
 - 기능정의, 스토리보드 작성, DB 및 아키텍쳐 설계, 디자인/개발까지 하나의 프로젝트에 투입되는 직군들의 역할을 체험. 협업의 중요성을 체감.
