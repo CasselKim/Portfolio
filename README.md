@@ -38,11 +38,7 @@
 
 # Skills
 
-------
-
 ## 💻 Technology
-
-------
 
 ### AWS
 
@@ -69,8 +65,6 @@ EC2, S3를 이용하여 서비스를 개발, 배포해본적이 있으며 AWS EC
 장고 프레임워크와 HTML, CSS, JS 그리고 Bootstrap과 SQLite, NGinx을 이용해 간단한 웹서비스를 제작한 적이 있습니다.
 
 # Project
-
-------
 
 ## 비트코인 자동 매매기
 
@@ -147,15 +141,11 @@ LAN을 AWS에서 구현해보기
 
 # GDG Daegu Organizer
 
-------
-
 GDG Daegu Chapter를 만든 organizer로서 로컬 개발자들을 위한 여러 행사들을 개최하였습니다.
 
 [GDG Daegu | Google Developer Groups](https://gdg.community.dev/gdg-daegu/)
 
 # Activities
-
-------
 
 학부생동안 수많은 해커톤과 대외활동을 했습니다. 자세한 내용은 아래 링크에 있습니다.
 
